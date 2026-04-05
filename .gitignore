@@ -1,3 +1,5 @@
 .venv
 *.csv
 *.png
+/__pycache__
+/tema/__pycache__
