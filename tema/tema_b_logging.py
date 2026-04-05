@@ -1,6 +1,5 @@
 """
 Tema B - Braitenberg cu inregistrare de date (logging).
-IA Lab #06 - Inteligenta Artificiala 2025-2026
 
 Ruleaza vehiculul Braitenberg (evitare) si salveaza la fiecare iteratie:
   timestamp, v_left, v_right, s0..s7, pos_x, pos_y

@@ -1,6 +1,5 @@
 """
 Tema D (Bonus) - Vehicul Braitenberg tip "Iubire".
-IA Lab #06 - Inteligenta Artificiala 2025-2026
 
 Vehiculul "Iubire" foloseste conexiuni ipsilaterale INHIBITORII:
   - Senzorul stang-fata REDUCE viteza motorului stang.
@@ -16,9 +15,6 @@ Efect emergent:
 Comparatie cu "Frica" (cerinta 3.5):
   "Frica"  : conexiuni ipsilaterale EXCITATOARE → robot FUGE de obstacol.
   "Iubire" : conexiuni ipsilaterale INHIBITORII → robot SE APROPIE si se OPRESTE.
-
-Referinta: Braitenberg, V. (1984). Vehicles: Experiments in Synthetic Psychology.
-           MIT Press. Vehiculul nr. 3b ("Love").
 """
 import time
 from coppeliasim_zmqremoteapi_client import RemoteAPIClient
@@ -61,7 +57,6 @@ WEIGHTS_FEAR = [
     (-1.0, +1.0),
     (-0.5, +0.5),
 ]
-
 
 def compute_velocities(sim, sensors, weights):
     """

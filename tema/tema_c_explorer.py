@@ -1,6 +1,5 @@
 """
 Tema C - Robot Explorer: explorare autonoma a arenei (nivel avansat).
-IA Lab #06 - Inteligenta Artificiala 2025-2026
 
 Combina wall-following (cerinta 3.6) cu recuperare la blocaj (Tema A).
 Robotul exploreaza o arena dreptunghiulara cu obstacole minim 60 secunde.

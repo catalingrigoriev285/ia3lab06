@@ -1,6 +1,5 @@
 """
 Tema B - Generare grafice din datele CSV inregistrate de tema_b_logging.py.
-IA Lab #06 - Inteligenta Artificiala 2025-2026
 
 Genereaza 3 imagini PNG:
   1. Traiectoria robotului in planul XY

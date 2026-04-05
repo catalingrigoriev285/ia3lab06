@@ -1,6 +1,5 @@
 """
 Tema A - Evitare cu recuperare (mașină de stări).
-IA Lab #06 - Inteligență Artificială 2025-2026
 
 Mașina de stări:
   FORWARD  → merge drept înainte; dacă obstacol frontal < STOP_DISTANCE → BACKWARD
